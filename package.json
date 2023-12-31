@@ -17,7 +17,7 @@
     "core-js": "^3.8.3",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
     "jimp": "^0.16.2",
-    "vue": "^2.7.14"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
